@@ -1,6 +1,6 @@
 # STUDENT COURSE REGISTRATION AND MARK ENTRY Application (SCRAME) 
 
-This project is done in AY2018 S1 for CZ2002 Object-Oriented Design and Programming.
+This project is done in AY2018-19 S1 for NTU SCSE CE2002/CZ2002 Object-Oriented Design and Programming.
 
 Lab: SE 1
 
