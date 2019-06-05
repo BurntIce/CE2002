@@ -1,8 +1,10 @@
 # STUDENT COURSE REGISTRATION AND MARK ENTRY Application (SCRAME) 
 
-This project is done for CZ2002 Year 2018 Semester 1 assignment.
+This project is done in AY2018 S1 for CZ2002 Object-Oriented Design and Programming.
 
-SE 1 Group 5 members:
+Lab: SE 1
+Group number: 5 
+Group members:
 U1722882E - Chen Zhuoran
 N1804637E - Jang Dong Joo
 U1722891A - Lee Yu Sheng Daniel
